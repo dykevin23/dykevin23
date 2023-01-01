@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React">
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React">
 
 <!--
 **dykevin23/dykevin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
